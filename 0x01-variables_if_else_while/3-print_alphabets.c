@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	char a;
-	char A;
-	int n;
+	char a = 'a';
+	char A = 'A';
+	int n = 0;
 
 	while (n < 52)
 	{
