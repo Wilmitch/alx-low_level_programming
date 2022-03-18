@@ -3,13 +3,13 @@
 /**
  * main - Entry point
  *
- * Return 0 on success. Error code otherwise
+ * Return: 0 on success. Error code otherwise
  */
 
 int main(void)
 {
 	char ch = 'a';
-	int i = '0';
+	int i = 0;
 	/*your code goes here*/
 
 	while (i < 26)
