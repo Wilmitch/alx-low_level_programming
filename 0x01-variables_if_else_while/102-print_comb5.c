@@ -9,30 +9,37 @@
 
 int main(void)
 {
-	int a;
-	int b;
-	int last;
-	/*your code goes there*/
-	a = 0;
-	while (a <= 99)
-	{
-		b = a + 1;
-		{
-			last = !(a == 98 && b == 99);
-			putchar(48 + a / 10);
-			putchar(48 + a % 10);
-			putchar(' ');
-			putchar(48 + b / 10);
-			putchar(48 + b % 10);
-			if (last)
-			{
-				putchar(',');
-				putchar(' ');
-			}
-			b++;
-		}
-		a++;
-	}
-	putchar('\n');
-	return (0);
+		int c, i, k, j;
+
+			for (c = 48; c <= 57; c++)
+					{
+								for (i = 48; i <= 57; i++)
+											{
+															for (k = 48; k <= 57; k++)
+																			{
+																								for (j = 48; j <= 57; j++)
+																													{
+																																			if (((k + j) > (c + i) &&  k >= c) || c < k)
+																																									{
+																																																putchar(c);
+																																																						putchar(i);
+																																																												putchar(' ');
+																																																																		putchar(k);
+																																																																								putchar(j);
+																																																																													if (c + i + k + j == 227 && c == 57)
+																																																																																			{
+																																																																																										break;
+																																																																																															}
+																																																																																		else
+																																																																																								{
+																																																																																															putchar(',');
+																																																																																																					putchar(' ');
+																																																																																																										}
+																																																																																							}
+																																							}
+																											}
+																	}
+									}
+				putchar('\n');
+					return (0);
 }
