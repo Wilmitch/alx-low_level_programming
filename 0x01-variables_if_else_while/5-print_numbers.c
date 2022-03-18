@@ -7,7 +7,7 @@
  */
 
 int main(void)
-{ 
+{
 	char ch = '0';
 	int i = 0;
 
