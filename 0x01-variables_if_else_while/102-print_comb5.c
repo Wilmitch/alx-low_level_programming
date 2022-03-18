@@ -41,5 +41,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return (0);add
+	return (0);
 }
