@@ -8,8 +8,8 @@
 int main(void)
 {
 	int i = 0;
-	/*your code goes there*/
 	
+	/*your code goes there*/
 	while (i < 10)
 	{
 		putchar(i);
