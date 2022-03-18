@@ -3,9 +3,8 @@
 /**
  * main - Entry point
  *
- * Return: 0 on success. Error code otherwise
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
 	int i = 0;
@@ -16,6 +15,6 @@ int main(void)
 		putchar(i);
 		i++;
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }

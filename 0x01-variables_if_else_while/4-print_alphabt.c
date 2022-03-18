@@ -11,6 +11,7 @@ int main(void)
 	char ch = 'a';
 	int i = '0';
 	/*your code goes here*/
+
 	while (i < 26)
 	{
 		if (ch != 'e' && ch != 'q')
@@ -19,6 +20,6 @@ int main(void)
 		i++;
 
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }

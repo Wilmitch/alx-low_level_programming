@@ -3,15 +3,13 @@
 /**
  * main - Entry poiny
  *
- * Return: 0 on success. Error code otherwise
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 { 
 	char ch = '0';
-	int i = '0';
+	int i = 0;
 	/*your code goes there*/
-
 	while (i < 10)
 	{
 		putchar(ch);
