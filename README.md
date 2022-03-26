@@ -1,1 +1,1 @@
-í±‹ Hi, Iâ€™m Wilfred í±€ Iâ€™m interested in Information Technology í¼± Iâ€™m currently learning Software Engineering at ALX School í²ï¸ Iâ€™m looking to collaborate on projects related to Software Engineering í³« Reach me on Github @Wilmitch
+ğŸ‘‹ Hi, Iâ€™m Wilfred Mwangi ğŸ‘€ Iâ€™m interested in Information Technology ğŸŒ± Iâ€™m currently learning Software Engineering at ALX School ğŸ’ï¸ Iâ€™m looking to collaborate on projects related to Software Engineering ğŸ“« Reach me on Github @Wilmitch
