@@ -1,13 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - check the code.
  *
  * Return: Always 0.
  */
-int _isalpha(int r)
+int _isalpha(int c)
 {
-	if ((r >= 'a' && r <= 'z') || (r >= 'A' && r <= 'Z'))
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 		return (1);
 	else
 		return (0);
