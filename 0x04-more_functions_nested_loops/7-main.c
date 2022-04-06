@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-int main (void)
+int main(void)
 {
 	print_diagonal(0);
 	print_diagonal(2);
